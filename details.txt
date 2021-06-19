@@ -1,0 +1,7 @@
+to create database
+
+enter python3 by just typing (python3)
+from app(name of python app) import db
+from app import Attendance(name of class in python code)
+to crate the database file
+    db.create_all()

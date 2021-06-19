@@ -1,0 +1,14 @@
+# pip freeze > requirements.txt to make requirements
+
+# run (pip install -r requirements.txt) in your terminal to install.
+
+
+click==8.0.1
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.0
+itsdangerous==2.0.1
+Jinja2==3.0.1
+MarkupSafe==2.0.1
+SQLAlchemy==1.4.18
+Werkzeug==2.0.1

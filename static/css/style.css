@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(211, 247, 250);
+    line-height: 1.7em;
+    margin-top: 2em;
+}
+.form{
+    background-color: rgb(250, 61, 3);
+    width: 500px;
+    margin-top: 5px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+.fellows{
+    width: 500px;
+    margin-left: 450px ; 
+}
